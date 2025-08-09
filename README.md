@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ravi11-developer
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning c programing
+- 👋 Hi, I’m ravi11-developer
+- 👀 I’m interested in web development ,web development
+- 🌱 I’m currently learning c and cpp and python programing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
